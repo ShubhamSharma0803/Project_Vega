@@ -1,0 +1,13 @@
+{
+  "name": "Shubham",
+  "age": 21,
+  "city": "Jind",
+  "goal": "TO earn 10 crores per month",
+  "weight_kg": 75.0,
+  "sleep_hours": 6.0,
+  "hobbies": [
+    "Cricket",
+    "Reading Books",
+    "watching netflix"
+  ]
+}

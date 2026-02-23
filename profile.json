@@ -1,0 +1,13 @@
+{
+  "name": "Shubham Sharma",
+  "age": 21,
+  "goal": "To Earn 10 Crores per month..",
+  "weight_kg": 75,
+  "height_ft": 5.11,
+  "is_student": true,
+  "skills": [
+    "Python",
+    "Git",
+    "Terminal"
+  ]
+}
